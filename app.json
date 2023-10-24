@@ -1,5 +1,5 @@
 {
-  "name": "DREADED BOT",
+  "name": "Davyduty",
   "description": "This is a simple whatsapp bot built with nodejs and baileys with MD support.",
   "keywords": [
     "bot",
@@ -25,7 +25,7 @@
 
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254114018035, 254741889898 ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254717442167, 254704592320 ",
       "required": true
     },
     "NOT_OWNER_MSG": {
